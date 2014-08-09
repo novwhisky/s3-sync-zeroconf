@@ -1,0 +1,27 @@
+{
+  "name": "s3-sync-zeroconf",
+  "version": "0.0.0",
+  "description": "Sync filesystems with S3 buckets and vice-versa with little to no configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wittnl/s3-sync-zeroconf.git"
+  },
+  "keywords": [
+    "S3",
+    "AWS",
+    "Amazon"
+  ],
+  "author": "Nathan Witt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wittnl/s3-sync-zeroconf/issues"
+  },
+  "homepage": "https://github.com/wittnl/s3-sync-zeroconf",
+  "dependencies": {
+    "aws-sdk": "^2.0.11"
+  }
+}
