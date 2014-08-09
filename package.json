@@ -23,5 +23,7 @@
   "homepage": "https://github.com/wittnl/s3-sync-zeroconf",
   "dependencies": {
     "aws-sdk": "^2.0.11"
+  },
+  "devDependencies": {
   }
 }
